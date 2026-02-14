@@ -46,7 +46,7 @@ Implementation of a Convolutional Neural Network for **age estimation from facia
 - Model training, validation, and benchmarking pipeline  
 - Dataset preprocessing & augmentation
 - 
-<img src="resnet.jpg" width="500"/>
+<img src="resnet.jpg" width="510"/>
 
 ---
 
