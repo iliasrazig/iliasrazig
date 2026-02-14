@@ -11,7 +11,9 @@ From LLM-powered automation systems to deep learning vision models, I try to des
 
 ## ENSAE – Institut Polytechnique de Paris  
 
-<img src="assets/ensae.jpg" width="600"/>
+<p align="center">
+  <img src="LOGO-ENSAE.png" width="400"/>
+</p>
 
 **Master in Data Science**
 
@@ -42,7 +44,9 @@ Implementation of a Convolutional Neural Network for **age estimation from facia
 - Custom CNN architecture in PyTorch  
 - Regression-based age prediction  
 - Model training, validation, and benchmarking pipeline  
-- Dataset preprocessing & augmentation  
+- Dataset preprocessing & augmentation
+- 
+<img src="resnet.jpg" width="500"/>
 
 ---
 
